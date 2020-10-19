@@ -2,6 +2,7 @@
 Testing Bertrand's Box Paradox
 
 From Wikipedia
+
 There are three boxes:
 
 a box containing two gold coins,
